@@ -5,3 +5,4 @@ Kaverns of Kfest is the culmination of a childhood dream to program a game in as
 I created Kaverns of Kfest for the Apple // at KansasFest 2016, where it won the Hackfest contest. Then a friend showed me how to port it to Atari 8-bit.
 
 ![Atari screenshot](atariscreenshot.png)
+![Apple // screenshot](applescreenshot.png)
